@@ -27,7 +27,7 @@ To get started with Math Solver, follow these steps:
 3. Compile the source code:
 
     ```bash
-    g++ -o math_solver main.cpp
+    g++ math_solver main.cpp
     ```
 
 4. Run the application:
